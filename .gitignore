@@ -1,1 +1,9 @@
 /target
+/records
+/.sqlx
+/.env
+/.vscode
+/.idea
+/.DS_Store
+/.cargo
+./config.toml
