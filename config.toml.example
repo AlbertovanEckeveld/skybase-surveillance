@@ -1,8 +1,8 @@
 [database]
-name = "skybase"
-user = "postgres"
-password = "postgres"
-host = "localhost"
+name = "<Name of your database>"
+user = "<Name of your database user>"
+password = "<password for your database user>"
+host = "<host of your database>"
 port = 5432
 
 [app]
