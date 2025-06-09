@@ -1,0 +1,9 @@
+[database]
+name = "skybase"
+user = "postgres"
+password = "postgres"
+host = "localhost"
+port = 5432
+
+[app]
+records_path = "./records"
